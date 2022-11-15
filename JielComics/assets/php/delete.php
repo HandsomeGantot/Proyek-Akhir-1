@@ -1,1 +1,0 @@
-<a href="delete_comic.php?comic_id=<?php echo $rowcomics['comic_id']; ?>" class='confirmation' style="float: right;"><button class="delete_comic"><i class="fa-solid fa-trash-can text"></i></button></a>
